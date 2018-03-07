@@ -34,6 +34,7 @@ public class PrintOutAsItIs {
 				}
 				if(status==1){
 					System.out.println(str);
+
 				}
 			}
 		}
